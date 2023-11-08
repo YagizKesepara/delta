@@ -1,0 +1,3 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/yagiz/Documents/PROJELER/CLA_Adder/CLA_Adder.sim/sim_1/synth/timing/xsim/tb_CLA_Adder_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_CLA_Adder
+INFO: [VRFC 10-311] analyzing module glbl

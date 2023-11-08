@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 04:59:54 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Tue Oct 17 16:06:23 2023
+# Process ID: 11235
+# Current directory: /home/yagiz/Documents/PROJELER/Moore/Moore.runs/synth_1
+# Command line: vivado -log Moore.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Moore.tcl
+# Log file: /home/yagiz/Documents/PROJELER/Moore/Moore.runs/synth_1/Moore.vds
+# Journal file: /home/yagiz/Documents/PROJELER/Moore/Moore.runs/synth_1/vivado.jou
+# Running On: YagizComputer, OS: Linux, CPU Frequency: 3605.526 MHz, CPU Physical cores: 6, Host memory: 24966 MB
+#-----------------------------------------------------------
+source Moore.tcl -notrace
